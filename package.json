@@ -1,4 +1,13 @@
 {
-  "start": "node index.js",
-  "vercel-build": "npm install"
+  "name": "hng-stage0-backend",
+  "version": "1.0.0",
+  "description": "HNG Stage 0 Backend API",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "cors": "^6.5.2"
+  }
 }
