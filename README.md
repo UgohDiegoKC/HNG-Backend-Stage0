@@ -53,10 +53,10 @@ npm install
 npm start
 ```
 
-### Deploying to Render
+### Deploying to Vercel
 
 1. Push code to GitHub
-2. Connect repository to Render.com
+2. Connect repository to Vercel.com
 3. Deploy with an Express.js environment
 
 ## Related Links
